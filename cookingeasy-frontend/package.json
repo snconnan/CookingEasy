@@ -1,0 +1,49 @@
+{
+  "name": "cookingeasy",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/checkbox": "^0.5.14",
+    "@react-native-picker/picker": "^2.4.8",
+    "@react-navigation/bottom-tabs": "6",
+    "@react-navigation/native": "6",
+    "@react-navigation/native-stack": "6",
+    "@reduxjs/toolkit": "^1.9.3",
+    "crypt": "^0.0.2",
+    "denodeify": "^1.2.1",
+    "expo": "~48.0.4",
+    "expo-av": "^13.2.1",
+    "expo-checkbox": "^2.3.1",
+    "expo-status-bar": "~1.4.4",
+    "expo-updates": "~0.16.3",
+    "native-base": "^3.4.26",
+    "progress": "^2.0.3",
+    "react": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-autocomplete-input": "^5.3.2",
+    "react-native-bouncy-checkbox": "^3.0.7",
+    "react-native-elements": "^3.4.3",
+    "react-native-modal": "^13.0.1",
+    "react-native-picker": "^4.3.7",
+    "react-native-popup-menu": "^0.16.1",
+    "react-native-progress": "^5.0.0",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-svg": "13.4.0",
+    "react-native-web": "^0.18.12",
+    "react-redux": "^8.0.5",
+    "redux-persist": "^6.0.0",
+    "semantic-ui-react": "^2.1.4",
+    "svg": "^0.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
